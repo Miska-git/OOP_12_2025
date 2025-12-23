@@ -1,0 +1,1 @@
+print("skusm pridat novy main")
